@@ -1,1 +1,2 @@
-# homework_core_java
+#  Репозиторий для изучения Java SE
+
